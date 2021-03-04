@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-03-03 13:46:36" Modified_Date="2021-03-03 23:39:31" Creator="Javier" Comments="" ID="c098476ad3ba5b69d3964d302ec7e89a">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-03-03 13:46:36" Modified_Date="2021-03-03 23:48:17" Creator="Javier" Comments="" ID="9b0eaafd389f780fb53b1f9a63b99a7a">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_JKI_Discrete_Control_Systems</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
@@ -292,7 +292,7 @@ At JKI we develop software, architect solutions, and design user interfaces to a
         <Path>examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>25256FFC9D723AC17FF717310B8B9A54</GUID>
+      <GUID>8720124AAFC45F90F9A1E4549EE8FAF9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -355,7 +355,7 @@ At JKI we develop software, architect solutions, and design user interfaces to a
         <Path>examples\pid_plant_example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2E2ACDFD2EFF2D8EE6E418F4433C8276</GUID>
+      <GUID>72A05C81543CD6D9E43C9CFB52599A46</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -404,7 +404,7 @@ At JKI we develop software, architect solutions, and design user interfaces to a
         <Path>discrete_control_systems\pid.run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4FE44547EE9756AE75376E21CAD8CCDF</GUID>
+      <GUID>0BABDE2D381EC105B6442869FBC83A3F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -439,7 +439,7 @@ At JKI we develop software, architect solutions, and design user interfaces to a
         <Path>discrete_control_systems\second_order_system.run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0FFAE2C9E5C51BB6BAEB28EF80320054</GUID>
+      <GUID>368B40E1D658806681C0796A4555A4A2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -474,7 +474,7 @@ At JKI we develop software, architect solutions, and design user interfaces to a
         <Path>discrete_control_systems\low_pass_filter_butterworth.run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C2367FC5F2FA73204326F38C86C92B5F</GUID>
+      <GUID>CC46C7AA97E36E08346F22F5F13AA623</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -537,7 +537,7 @@ At JKI we develop software, architect solutions, and design user interfaces to a
         <Path>Discretization</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5056D7892F06164E561BF0450DFA57CC</GUID>
+      <GUID>40B17F8857446E8DB19CB574BB276BEF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -642,7 +642,7 @@ At JKI we develop software, architect solutions, and design user interfaces to a
         <Path>discrete_control_systems\regressors.calculate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3B45D20DDBCFEEE5489AE08DF8206A91</GUID>
+      <GUID>FF08EA4B33032A715F34DCF9797DD04A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
