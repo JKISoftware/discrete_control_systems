@@ -1,0 +1,9 @@
+{
+  "name":"JKI_DiscreteControl",
+  "labview-version":"2019",
+  "labview-bitness":"any",
+  "lv-venv":"lv-venv",
+  "main-project":"JKI_DiscreteControl.lvproj",
+  "main-vipc":"ApplyMe.vipc",
+  "main-vipb":""
+}
